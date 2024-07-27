@@ -11,6 +11,7 @@ Personal tasks:
 - [ ] Update profile README.md.
 - [ ] Throw JS API project into git. 
 - [ ] Save some old works here too? Perhaps.
+- [ ] Add where to find what into this README.
 
 <!--
 **Shlendir/Shlendir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
