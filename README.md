@@ -9,7 +9,7 @@ ${\color{lightblue}[Warning: \space Still \space in \space works]}$
 Personal tasks:
 - [x] Start activity check and profile stuff.
 - [ ] Update profile README.md.
-- [ ] Throw JS API project into git. 
+- [ ] Throw more WIP projects into git. 
 - [ ] Save some old works here too? Perhaps.
 - [ ] Add where to find what into this README.
 
