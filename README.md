@@ -1,16 +1,25 @@
 ## Hi there 👋
 
+${\color{lightblue}[Warning: \space Still \space in \space works]}$
+
+- 🔭 I’m currently working on school stuff and personal projects.
+- 🌱 I’m currently learning JavaScript and Java mainly.
+- ⚡ Fun fact: I thrive in organized chaos.
+
+Personal tasks:
+- [x] Start activity check and profile stuff.
+- [ ] Update profile README.md.
+- [ ] Throw JS API project into git. 
+- [ ] Save some old works here too? Perhaps.
+
 <!--
 **Shlendir/Shlendir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
